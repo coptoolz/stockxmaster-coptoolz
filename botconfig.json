@@ -1,6 +1,6 @@
 {
-  "token": "",
-  "prefix": "",
+  "token": "BOT_TOKEN",
+  "prefix": "?",
   "stockxemail": "",
   "stockxpass":""
 }
