@@ -1,0 +1,48 @@
+Commands And Usage
+where i say (prefix) it should be replaced with your prefix e.x if my prefix is ! then (prefix) = ! When filling in () values do not include ()
+
+ping
+
+Command: (prefix)ping
+This pings the bot to see if its online
+CreateATC
+
+Command: (prefix)CreateATC (siteurl) (variantID)
+Creates An ATC Link For An Item On A Shopify Site Given The Url And Variant
+Choose
+
+Command: (prefix)Choose (option1,option2,supportsinfiniteoptions)
+Chooses A Random Option From List
+ATC
+
+Command: (prefix)ATC (producturl)
+Creates ATC Links for item on a shopify site
+Creator
+
+Command: (prefix)Creator
+Returns Info About Me
+IsShopify
+
+Command: (prefix)IsShopify (site url)
+Tells If A Website Runs On Shopify
+getproducts
+
+Command: (prefix)getproducts (pageurl)
+Scrapes products off shopify site creats atc links and everything
+help
+
+Command: (prefix)help
+Pretty much dms a user this
+randomquote
+
+Command: (prefix)randomquote
+Just says a random quote
+online?
+
+Command: (prefix)online? (site link)
+Tells if a website is online
+SupremeWeek
+
+Command: (prefix)SupremeWeek
+Returns the items of the latest supreme week
+Alot more soon just want to perfect these first
